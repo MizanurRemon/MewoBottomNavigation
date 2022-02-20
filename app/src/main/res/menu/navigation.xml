@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- <item
+         android:id="@+id/ongoing"
+         android:icon="@drawable/ic_clock"
+         android:title="On Going" />
+
+
+     <item
+         android:id="@+id/result"
+         android:icon="@drawable/ic_diagram"
+         android:title="Result" />-->
+
+    <item
+        android:id="@+id/shop"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        android:title="Shop" />
+
+    <item
+        android:id="@+id/buySell"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        android:title="Buy &amp; Sell" />
+
+    <item
+        android:id="@+id/play"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        android:title="Play" />
+
+    <item
+        android:id="@+id/statistics"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        android:title="Statistics" />
+
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        android:title="Me" />
+
+
+</menu>
